@@ -64,6 +64,6 @@ Create a user and grant appropriate permission for reading and writing from Amaz
 1. Make sure your AWS S3 Bucket is active and credentials for data lake is in `dl.cfg` and are accurate.
 2. From shell run `etl.py`
 
-## Note
+## Note 
 
 **Do not forget to Clean up your AWS resources.**
